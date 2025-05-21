@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300;400;500;600;800;900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Hind+Madurai:wght@100;200;300;400;500;600;700&display=swap");
 
 
 
@@ -151,6 +152,8 @@ ul, ol{
     letter-spacing: 0%; 
     color: #FAFAFA;
     padding: 16px 50px;
+    transition: 1s;
+    border: 2px solid transparent;
 }
 /* hero end */
 
@@ -244,6 +247,8 @@ ul, ol{
     letter-spacing: 0%;
     color: #FAFAFA;
     padding: 15px 41px;
+    transition: 1s;
+    border: 2px solid transparent;
 }
 /* sugar end */
 
@@ -346,6 +351,8 @@ ul, ol{
     text-align: center;
     color: #FAFAFA;
     padding: 15px 50px;
+    transition: 1s;
+    border: 2px solid transparent;
 }
 
 .product__box1{
